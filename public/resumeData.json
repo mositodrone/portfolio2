@@ -1,0 +1,100 @@
+{
+    "main": {
+        "name": "Moses Ajayi",
+        "occupation": ",",
+        "description": "Fullstack web-developer",
+        "image": "logo_transparent.png",
+        "bio": "My name is Moses, I'm a Full Stack web Developer. Currently Freelancing.",
+        "contactmessage": "Get in touch with me to receive further details.",
+        "email": "mositodrone@gmail.com",
+        "phone": "07059593580",
+        "website": "https://momodev21.herokuapp.com",
+        "resumedownload": "http://localhost:3000/resume",
+        "address": {
+            "city": "Lagos",
+            "street": "mositodrone@gmail.com",
+            "Zip": "+234"
+        },
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/moses d dev",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/mositodrone",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [{
+            "school": "Zero to Mastery Academy",
+            "degree": "Certificate of completion",
+            "graduated": "****",
+            "description": "****"
+        }],
+        "work": [{
+                "company": "Freelancer",
+                "title": "Full stack web developer",
+                "years": "May 2019 - Present",
+                "description": ""
+            },
+            {
+                "company": "momodev-inc ©",
+                "title": "Moses ajayi",
+                "years": "Jan 2019 - Present",
+                "description": "."
+            }
+        ],
+        "skills": [{
+                "name": "ReactJs",
+                "level": "100%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "Git",
+                "level": "75%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "100%"
+            },
+            {
+                "name": "PostgreSQL",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "smart-brain",
+                "category": "this was my first app built with reactjs and nodejs",
+                "image": "smart-brain.png",
+                "url": "https://smartbrain-2000.herokuapp.com/"
+            },
+            {
+                "title": "safecare",
+                "category": "This one was a simple startup i made for my first client",
+                "image": "safecare.png",
+                "url": "https://safecare.herokuapp.com/"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Hoping to Get some testimonials here in the future 😊",
+                "user": "momodev"
+            }]
+    }
+}
